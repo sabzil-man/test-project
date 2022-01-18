@@ -95,7 +95,7 @@ End if
 										</TD>
 									</TR>
 									</form>
-								<!--로그인 부분 추가-->
+								<!--로그인 부분-->
 								</TABLE>
 							</TD>
 							<!--TD width=38 background=login_img/img_03_05bg.gif height=27>&nbsp;</TD></TR>
